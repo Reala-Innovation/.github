@@ -1,4 +1,4 @@
-# 👋 Welcome to Tapnob’s Open-Source Hub
+# 👋 Welcome to Tapnob’s Hub
 
 **Tapnob** is building open, modular, and practical tools for the future of finance and beyond. We focus on **payments, developer tools, and infrastructure**, empowering users, businesses, and communities to move value safely and efficiently.  
 
